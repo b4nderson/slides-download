@@ -1,0 +1,6 @@
+{
+    "IMAGE_PATH_URL": "", // Pasta do servidor onde fica as imagens
+    "URL": "", // URL do slide
+    "TOKEN_NAME": "", // Token de sessão (caso precise)
+    "TOKEN": "" // Nome do token de sessão (caso precise)
+}
